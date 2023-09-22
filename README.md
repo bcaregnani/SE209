@@ -1,3 +1,3 @@
-# My new project
+# SE209
 
-This is the default README.md. Please edit me.
+System on Chip (SoC) project within the framework of the course SE209 at Telecom Paris.
