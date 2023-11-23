@@ -1,3 +1,3 @@
 # SE209
 
-System on Chip (SoC) project within the framework of the course SE209 at Telecom Paris.
+Implementation of a DMA module on an FPGA for the acceleration of the PRESENT encryption algorithm.
